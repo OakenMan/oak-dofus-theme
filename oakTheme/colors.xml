@@ -174,9 +174,9 @@
 	<entry key="challenge.achievement">0xff6c00</entry>
 
 	<!-- tactic mode -->
-	<entry key="tacticmode.floor02">0x4B515F</entry> <!-- floor1 -->
-	<entry key="tacticmode.floor01">0x24272F</entry> <!-- floor2 -->
-	<entry key="tacticmode.block01">0x252525</entry> <!-- top -->
-	<entry key="tacticmode.block02">0x101010</entry> <!-- sombre -->
-	<entry key="tacticmode.block03">0x202020</entry> <!-- clair -->
+	<entry key="tacticmode.floor02">0x4B515F</entry>
+	<entry key="tacticmode.floor01">0x24272F</entry>
+	<entry key="tacticmode.block01">0x252525</entry>
+	<entry key="tacticmode.block02">0x101010</entry>
+	<entry key="tacticmode.block03">0x202020</entry>
 </LangFile>
