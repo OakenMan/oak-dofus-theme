@@ -1,0 +1,10 @@
+<theme>
+    <name>oakTheme</name>
+    <skinType>1</skinType>
+    <description>Oak custom theme</description>
+    <previewUri>darkStonePreview.jpg</previewUri>
+	<author>Oak</author>
+	<dofusVersion>2.70</dofusVersion>
+    <creationDate>02/03/2024</creationDate>
+    <modificationDate>04/03/2024</modificationDate>
+</theme>
